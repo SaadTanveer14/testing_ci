@@ -29,6 +29,6 @@ jobs:
           name: release-artifacts
           path: 
             build/app/outputs/flutter-apk/app-release.apk
-            build/app/outputs/apk/release/app-armeabi-v7a-release.apk
-            build/app/outputs/bundle/release/app.aab
+            build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk
+            build/app/outputs/bundle/release/app-release.aab
       
